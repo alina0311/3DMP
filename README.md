@@ -1,2 +1,2 @@
 # 3DMP
-A repository for the 3DMP course, held at University of Bucharest.
+A repository for my projects for the 3DMP course, held at University of Bucharest.
