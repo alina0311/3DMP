@@ -1,5 +1,4 @@
 I tried to follow these rules:
-
 1.Divide the mechanism into components
 
 2. Use Fusion Rule Number 1
