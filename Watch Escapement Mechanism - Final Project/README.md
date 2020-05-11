@@ -44,3 +44,9 @@ planes.
 - [ ] 🖼️ Save the renderings as photos and as a turntable Render.
 - [ ] ↪️ Add joints, motion links and joints limits.
 - [ ] ▶️ Create motion studies.
+
+## Resources
+- [Prusa 3D by Joseph Prusa on Youtube](https://www.youtube.com/watch?v=u4dbpJuXrzg&feature=youtu.be)
+- [LarkysPrints on Thingiverse](https://www.thingiverse.com/thing:3364860)
+- [domjubgwefer on Youtube](https://www.youtube.com/watch?v=AWud6KU8Z4s&t=6s)
+- [alaskanlimoguy on Youtube](https://www.youtube.com/watch?v=4-xS49tFSjo)
