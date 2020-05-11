@@ -5,7 +5,7 @@ As [**Wikipedia**](https://en.wikipedia.org/wiki/Escapement) says:
 ![](Canvases/watch%20mechanism%20front%20view%201.jpg)
 ## Components
 I divided the project into 3 main components, each of them having their own subcomponents:
-1. **MainSpring**
+1. **Main Spring**
    - Spring Frame Back
    - Spring Barrel
    - Ratchet
