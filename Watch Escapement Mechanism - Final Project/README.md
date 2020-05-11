@@ -32,15 +32,15 @@ I divided the project into 3 main components, each of them having their own subc
    - Bracket
 ## Tasks
 
-- [] Make the canvases.  
-- [] Divide the project into components.  
-- [] Start sketching using the canvases.  
-- [] Make sure you have Capture History turned on.  
-- [] Make the holder parts: brackets and frames. 
-Save multiple versions and suggestively name them.
-- [] Properly use names for bodies, components, joints, construction
+- [x] Make the canvases.  
+- [x] Divide the project into components.  
+- [x] Start sketching using the canvases.  
+- [x] Make sure you have Capture History turned on.  
+- [x] Make the holder parts: brackets and frames. 
+- [ ] Save multiple versions and suggestively name them.
+- [ ] Properly use names for bodies, components, joints, construction
 planes.
-- [] Render the object applying appearance and scene.
-- [] Save the renderings as photos and as a turntable Render.
-- [] Add joints, motion links and joints limits.
-- [] Create motion studies.
+- [ ] Render the object applying appearance and scene.
+- [ ] Save the renderings as photos and as a turntable Render.
+- [ ] Add joints, motion links and joints limits.
+- [ ] Create motion studies.
