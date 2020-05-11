@@ -32,8 +32,8 @@ I divided the project into 3 main components, each of them having their own subc
    - Bracket
 ## Tasks
 
-- [x] Make the canvases.  
-- [x] Divide the project into components.  
+- [x] ✏️ Make the canvases.  
+- [x] ➗ Divide the project into components.  
 - [x] Start sketching using the canvases.  
 - [x] Make sure you have Capture History turned on.  
 - [x] Make the holder parts: brackets and frames. 
