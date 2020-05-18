@@ -30,6 +30,15 @@ I divided the project into 3 main components, each of them having their own subc
    - Pallet Fork
    - Balance Frame Front
    - Bracket
+   
+## Steps for 3D modeling the mechanism:
+🟣 Make the holder parts (frames and brackets)
+🟣 Make the gears
+🟣 Make the spirals
+🟣 Make the other subcomponents 
+🟣 Align subcomponents for each big component
+🟣 Add the screws, nuts and washers
+
 ## Tasks
 
 - [x] ✏️ Make the canvases.  
@@ -37,8 +46,8 @@ I divided the project into 3 main components, each of them having their own subc
 - [x] ➰ Start sketching using the canvases.  
 - [x] 🔛 Make sure you have Capture History turned on.  
 - [x] 🗜️ Make the holder parts: brackets and frames. 
-- [ ] 💾 Save multiple versions and suggestively name them.
-- [ ] 🔠 Properly use names for bodies, components, joints, construction
+- [x] 💾 Save multiple versions and suggestively name them.
+- [x] 🔠 Properly use names for bodies, components, joints, construction
 planes.
 - [ ] 🟡 Render the object applying appearance and scene.
 - [ ] 🖼️ Save the renderings as photos and as a turntable Render.
