@@ -32,12 +32,14 @@ I divided the project into 3 main components, each of them having their own subc
    - Bracket
    
 ## Steps for 3D modeling the mechanism:
-- 🟣 Make the holder parts (frames and brackets)
-- 🟣 Make the gears
-- 🟣 Make the spirals
-- 🟣 Make the other subcomponents 
-- 🟣 Align subcomponents for each big component
-- 🟣 Add the screws, nuts and washers
+
+- 🟣 Make the holder parts (frames and brackets) using the canvases.
+- 🟣 Make the gears using **Add-ins Tools**. 
+- 🟣 Make the spirals using **Coil** and **Project to Surface**.
+- 🟣 Make the other subcomponents using the canvases.
+- 🟣 Assemble the mechanism using **Align**.
+- 🟣 Add the screws, nuts and washers using **McMaster-Carr Component**.
+- 🟣 **Ground** the holder. 
 
 ## Tasks
 
@@ -45,7 +47,6 @@ I divided the project into 3 main components, each of them having their own subc
 - [x] ➗ Divide the project into components.  
 - [x] ➰ Start sketching using the canvases.  
 - [x] 🔛 Make sure you have Capture History turned on.  
-- [x] 🗜️ Make the holder parts: brackets and frames. 
 - [x] 💾 Save multiple versions and suggestively name them.
 - [x] 🔠 Properly use names for bodies, components, joints, construction
 planes.
