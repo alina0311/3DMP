@@ -32,12 +32,12 @@ I divided the project into 3 main components, each of them having their own subc
    - Bracket
    
 ## Steps for 3D modeling the mechanism:
-🟣 Make the holder parts (frames and brackets)
-🟣 Make the gears
-🟣 Make the spirals
-🟣 Make the other subcomponents 
-🟣 Align subcomponents for each big component
-🟣 Add the screws, nuts and washers
+- 🟣 Make the holder parts (frames and brackets)
+- 🟣 Make the gears
+- 🟣 Make the spirals
+- 🟣 Make the other subcomponents 
+- 🟣 Align subcomponents for each big component
+- 🟣 Add the screws, nuts and washers
 
 ## Tasks
 
