@@ -50,10 +50,10 @@ I divided the project into 3 main components, each of them having their own subc
 - [x] 💾 Save multiple versions and suggestively name them.
 - [x] 🔠 Properly use names for bodies, components, joints, construction
 planes.
-- [ ] 🟡 Render the object applying appearance and scene.
-- [ ] 🖼️ Save the renderings as photos and as a turntable Render.
-- [ ] ↪️ Add joints, motion links and joints limits.
-- [ ] ▶️ Create motion studies.
+- [x] 🟡 Render the object applying appearance and scene.
+- [x] 🖼️ Save the renderings as photos and as a turntable Render.
+- [x] ↪️ Add joints, motion links and joints limits.
+- [x] ▶️ Create motion studies.
 
 ## Resources
 
