@@ -5,10 +5,10 @@ As [**Wikipedia**](https://en.wikipedia.org/wiki/Escapement) says:
 ![](Canvases/watch%20mechanism%20front%20view%201.jpg)
 # Why designing this mechanism?
 It's quite amazing to understand how a watch works. But you know what's even better? To model it.
-I chose this mechanism because it seemed interesting and I've been curious to find out how a watch works.
+I chose this mechanism because it seemed interesting, I wanted to make something practical and I've been curious to find out how a watch works.
 
-# How does it work?
-Bassically it's all about the joints.  
+# How does it work in Fusion 360?
+Bassically it's all about the joints.  I made 6 revolute joints, 1 contact set and 3 motion links. I strongly don't recommend to use contact sets. To make the motion study, I used the escape wheel joint.
 
 ## Components
 I divided the project into 3 main components, each of them having their own subcomponents:
@@ -61,6 +61,9 @@ planes.
 - [x] 🖼️ Save the renderings as photos and as a turntable Render.
 - [x] ↪️ Add joints, motion links and joints limits.
 - [x] ▶️ Create motion studies.
+
+## What will you find here?
+Canvases for each and one component and for the whole mechanism, stl files for each subcomponent and some f3d files showing my progress.
 
 ## Resources
 
