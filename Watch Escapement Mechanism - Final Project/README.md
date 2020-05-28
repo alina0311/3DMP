@@ -4,7 +4,12 @@ As [**Wikipedia**](https://en.wikipedia.org/wiki/Escapement) says:
 
 ![](Canvases/watch%20mechanism%20front%20view%201.jpg)
 # Why designing this mechanism?
-It's quite amazing to understand how a watch works. What's even better?
+It's quite amazing to understand how a watch works. But you know what's even better? To model it.
+I chose this mechanism because it seemed interesting and I've been curious to find out how a watch works.
+
+# How does it work?
+Bassically it's all about the joints.  
+
 ## Components
 I divided the project into 3 main components, each of them having their own subcomponents:
 1. **Main Spring**
